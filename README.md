@@ -6,4 +6,4 @@ app/src/main/res/layouts
 
 The layouts are ordered and with numbers on their top left corners.
 
-Additionally, I have attached the three screenshots of the layouts to this repository and labeled them as: Screen 1, Screen 2, Screen 3.
+Additionally, I have attached the screenshots of the three different layout screen to this repository and labeled them as: Screen 1, Screen 2, Screen 3.
